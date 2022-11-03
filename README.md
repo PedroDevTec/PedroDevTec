@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedor que trabalha com varios projetos...
+Eu sou desenvolvedor que trabalha com varios projetos...
 
 Meu Objetivo é Programar Jogos, mas atualmente estou trabalhando com 
 webservices e arquitetura de sites.
