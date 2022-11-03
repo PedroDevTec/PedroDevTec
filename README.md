@@ -1,0 +1,16 @@
+# Olá, eu sou a Pedro! 👋
+
+
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedor que trabalha com varios projetos...
+
+Meu Objetivo é Programar Jogos, mas atualmente estou trabalhando com 
+webservices e arquitetura de sites.
+
+## Um pouco mais de mim...
+
+👩‍💻 Trabalho atualmente na Abrasel...
+
+🧠 Estou aprendendo Microserviços e Arquitetura...
+
+💬 Me pergunte sobre .Net ...
